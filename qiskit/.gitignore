@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+
+cmake/
+contrib/
+etc/
+include/
+Lib/
+Scripts/
+share/
+src/
+
+CMakeLists.txt
+MANIFEST.in
+pyvenv.cfg
